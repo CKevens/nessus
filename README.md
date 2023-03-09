@@ -85,3 +85,6 @@ __tips__: github/elliot-bia
 其实除了以上解密，还有另一种很简单的办法，让大家挖掘😆
 
 
+# 捐赠
+赏点钱喝杯咖啡吧~  
+<img src="zfb_wx_qc.jpg" width="60%" height="60%" alt="zfb_wx_qc.png"/>
